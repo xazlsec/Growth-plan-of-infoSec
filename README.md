@@ -1,4 +1,4 @@
-# Growth-plan-of-infoSec
+# 信安之路成长计划
 Growth plan of The road to information security
 
 
@@ -25,3 +25,6 @@ Growth plan of The road to information security
 在信安之路诞生到现在的两年时间，我们一直保持不蹭热点、不扯淡，专注分享信息安全技术的原理和细节、安全学习的经验、工作中实践的点滴记录、安全从业人员的价值体现等内容，坚持创新，任何一篇文章都是付出很多努力和时间的结果。
 
 从一个公众号的角度来看，转载一篇文章比创新一篇文章所花费的时间和精力不可同日而语，我们为什么非要坚持原创而不转载，这就是我们坚守自己价值观的体现。
+
+#### 公众号
+![](xazl.jpg)
